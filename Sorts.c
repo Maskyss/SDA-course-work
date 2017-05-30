@@ -1,6 +1,6 @@
 #pragma once
 #include "Sorts.h"
-
+//COMMENT ADDED
 clock_t insertionSort(arrayType ArrayForSort, int P, int M, int N)
 {
 	int i, j, k, x, y, L, R;/*змінні i, j, k -  для лічильників загального сортування вставки, 
